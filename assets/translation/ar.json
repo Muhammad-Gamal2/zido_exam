@@ -1,0 +1,38 @@
+{
+  "SAR": "ريال",
+  "tabBar": {
+    "home": "الرئيسية",
+    "buy": "الشراء",
+    "sell": "البيع",
+    "account": "حسابي"
+  },
+  "ads": {
+    "eachSignUpYouGet10points": "احصل اشتراك تحصل على 10 نقاط",
+    "shareZidoAppEarnPoints": "انشر التطبيق واربح نقاط زيدو مجانية",
+    "shareNow": "انشر الآن",
+    "yourItemsAreValuable": "أغراضك ذات قيمة",
+    "sellBuyAnythingWithAuctionSystem": "بيع وشراء أي شيء مع نظام المزاد",
+    "startNow": "ابدا الآن"
+  },
+  "home": {
+    "seeAll": "شاهد الكل",
+    "latestItems": "أحدث العناصر",
+    "privateAuctions": "المزادات الخاصة",
+    "latestPosts": "آخر المشاركات"
+  },
+  "post": {
+    "demoText": "يجب أن يكون أعضاء المحكمة متحيزين لا توجد جعبة من حياة الأسد.",
+    "time": "٢٠ أغسطس ٢٠٢١"
+  },
+  "item": {
+    "demoText": "اثاث مربع | أول مصنع أثاث مكتبي في مصر ...",
+    "hafarAlBatin": "حفر الباطن",
+    "riyadh": "الرياض",
+    "used": "مستعمل",
+    "new": "جديد"
+  },
+  "auction": {
+    "join": "انضم",
+    "pending": "انتظار"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "SAR": "SAR",
+  "tabBar": {
+    "home": "Home",
+    "buy": "Buy",
+    "sell": "Sell",
+    "account": "Account"
+  },
+  "ads": {
+    "eachSignUpYouGet10points": "Each sign-up you get 10 points",
+    "shareZidoAppEarnPoints": "Share Zido App & Earn points",
+    "shareNow": "Share Now",
+    "yourItemsAreValuable": "Your items are valuable",
+    "sellBuyAnythingWithAuctionSystem": "Sell & Buy anything with Auction",
+    "startNow": "Start Now"
+  },
+  "home": {
+    "seeAll": "See All",
+    "latestItems": "Latest Items",
+    "privateAuctions": "Private Auctions",
+    "latestPosts": "Latest Posts"
+  },
+  "post": {
+    "demoText": "Sodales urna sit varius vestibulum. Dignissim turpis nulla pharetra adipiscing sem libero vitae leo quis.",
+    "time": "Aug 20, 2021"
+  },
+  "item": {
+    "demoText": "Square Furniture | First Office Furniture Manufacturer in EG...",
+    "hafarAlBatin": "Hafar Al Batin",
+    "riyadh": "Riyadh",
+    "used": "Used",
+    "new": "New"
+  },
+  "auction": {
+    "join": "Join",
+    "pending": "Pending"
+  }
+}
